@@ -6,7 +6,7 @@
             "repeating": true,
             "iosRepeatCount": 3,
             "repeatDelay": "00:01:00",
-            "localTime": "11:20:00",
+            "localTime": "12:00:00",
             "dayOfWeek": 1,
             "messageVariants": [
                 {

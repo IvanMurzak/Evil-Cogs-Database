@@ -1,0 +1,125 @@
+{
+    "version": "1",
+    "notificationConfigs": [
+        {
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "dayOfWeek": 5,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_2",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_2"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_4",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_4"
+                }
+            ]
+        },
+        {
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "dayOfWeek": 6,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_2",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_2"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_4",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_4"
+                }
+            ]
+        },
+        {
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "dayOfWeek": 0,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_2",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_2"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_4",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_4"
+                }
+            ]
+        },
+        {
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "dayOfWeek": 1,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_2",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_2"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_4",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_4"
+                }
+            ]
+        },
+        {
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "dayOfWeek": 3,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_2",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_2"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
+                },
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_4",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_4"
+                }
+            ]
+        }
+    ]
+}

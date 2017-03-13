@@ -1,10 +1,26 @@
 {
     "version": "1",
     "notificationConfigs": [
+		{
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "repeatDelay": "00:00:30",
+            "localTime": "10:00:00",
+            "dayOfWeek": 2,
+            "messageVariants": [
+                {
+                    "titleKey": "MIKE 101_Surprise_1_2",
+                    "messageKey": "MIKE 101_Surprise_1_2"
+                }
+            ]
+        },
         {
             "showInForeground": true,
             "repeating": true,
             "iosRepeatCount": 3,
+            "repeatDelay": "7.00:00:00",
+            "localTime": "19:00:00",
             "dayOfWeek": 5,
             "messageVariants": [
                 {
@@ -29,6 +45,8 @@
             "showInForeground": true,
             "repeating": true,
             "iosRepeatCount": 3,
+            "repeatDelay": "7.00:00:00",
+            "localTime": "16:00:00",
             "dayOfWeek": 6,
             "messageVariants": [
                 {
@@ -53,6 +71,8 @@
             "showInForeground": true,
             "repeating": true,
             "iosRepeatCount": 3,
+            "repeatDelay": "7.00:00:00",
+            "localTime": "16:00:00",
             "dayOfWeek": 0,
             "messageVariants": [
                 {
@@ -77,6 +97,8 @@
             "showInForeground": true,
             "repeating": true,
             "iosRepeatCount": 3,
+            "repeatDelay": "7.00:00:00",
+            "localTime": "21:00:00",
             "dayOfWeek": 1,
             "messageVariants": [
                 {
@@ -101,6 +123,8 @@
             "showInForeground": true,
             "repeating": true,
             "iosRepeatCount": 3,
+            "repeatDelay": "7.00:00:00",
+            "localTime": "21:00:00",
             "dayOfWeek": 3,
             "messageVariants": [
                 {

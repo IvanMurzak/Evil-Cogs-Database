@@ -1,20 +1,6 @@
 {
     "version": "1",
     "notificationConfigs": [
-		{
-            "showInForeground": true,
-            "repeating": true,
-            "iosRepeatCount": 3,
-            "repeatDelay": "00:01:00",
-            "localTime": "15:00:00",
-            "dayOfWeek": 1,
-            "messageVariants": [
-                {
-                    "titleKey": "MIKE 101_Surprise_1_2",
-                    "messageKey": "MIKE 101_Surprise_1_2"
-                }
-            ]
-        },
         {
             "showInForeground": true,
             "repeating": true,

@@ -10,8 +10,8 @@
             "dayOfWeek": 0,
             "messageVariants": [
                 {
-                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
-                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
                 }
             ]
         },
@@ -24,8 +24,8 @@
             "dayOfWeek": 1,
             "messageVariants": [
                 {
-                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
-                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
                 }
             ]
         },
@@ -38,8 +38,8 @@
             "dayOfWeek": 2,
             "messageVariants": [
                 {
-                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
-                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
                 }
             ]
         },
@@ -52,8 +52,8 @@
             "dayOfWeek": 3,
             "messageVariants": [
                 {
-                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
-                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
                 }
             ]
         },
@@ -66,8 +66,8 @@
             "dayOfWeek": 4,
             "messageVariants": [
                 {
-                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
-                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
                 }
             ]
         },
@@ -80,8 +80,8 @@
             "dayOfWeek": 5,
             "messageVariants": [
                 {
-                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
-                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
                 }
             ]
         },
@@ -94,8 +94,8 @@
             "dayOfWeek": 6,
             "messageVariants": [
                 {
-                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
-                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
                 }
             ]
         }

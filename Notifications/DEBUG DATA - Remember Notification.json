@@ -1,0 +1,19 @@
+{
+    "version": "1",
+    "notificationConfigs": [
+        {
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "repeatDelay": "01:00",
+            "localTime": "12:00:00",
+            "dayOfWeek": 5,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_1",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_1"
+                }
+            ]
+        }
+    ]
+}

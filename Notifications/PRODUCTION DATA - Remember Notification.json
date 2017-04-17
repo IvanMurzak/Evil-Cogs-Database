@@ -6,7 +6,7 @@
             "repeating": true,
             "iosRepeatCount": 3,
             "repeatDelay": "01:00",
-            "localTime": "13:20:00",
+            "localTime": "13:45:00",
             "dayOfWeek": 0,
             "messageVariants": [
                 {
@@ -20,7 +20,7 @@
             "repeating": true,
             "iosRepeatCount": 3,
             "repeatDelay": "01:00",
-            "localTime": "13:20:00",
+            "localTime": "13:45:00",
             "dayOfWeek": 1,
             "messageVariants": [
                 {
@@ -34,7 +34,7 @@
             "repeating": true,
             "iosRepeatCount": 3,
             "repeatDelay": "01:00",
-            "localTime": "13:20:00",
+            "localTime": "13:45:00",
             "dayOfWeek": 2,
             "messageVariants": [
                 {
@@ -48,7 +48,7 @@
             "repeating": true,
             "iosRepeatCount": 3,
             "repeatDelay": "01:00",
-            "localTime": "13:20:00",
+            "localTime": "13:45:00",
             "dayOfWeek": 3,
             "messageVariants": [
                 {
@@ -62,7 +62,7 @@
             "repeating": true,
             "iosRepeatCount": 3,
             "repeatDelay": "01:00",
-            "localTime": "13:20:00",
+            "localTime": "13:45:00",
             "dayOfWeek": 4,
             "messageVariants": [
                 {
@@ -76,7 +76,7 @@
             "repeating": true,
             "iosRepeatCount": 3,
             "repeatDelay": "01:00",
-            "localTime": "13:20:00",
+            "localTime": "13:45:00",
             "dayOfWeek": 5,
             "messageVariants": [
                 {
@@ -90,7 +90,7 @@
             "repeating": true,
             "iosRepeatCount": 3,
             "repeatDelay": "01:00",
-            "localTime": "13:20:00",
+            "localTime": "13:45:00",
             "dayOfWeek": 6,
             "messageVariants": [
                 {

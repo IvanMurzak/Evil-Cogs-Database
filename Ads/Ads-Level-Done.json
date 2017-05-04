@@ -3,10 +3,10 @@
     "ads": [
         {
             "levelName": "Born",
-            "enabled": false,
+            "enabled": true,
             "adTypes": [
-                0,
-                1
+                1,
+                0
             ],
             "percentile": {
                 "value": 100
@@ -20,13 +20,14 @@
             "levelName": "Begin",
             "enabled": true,
             "adTypes": [
+                1,
                 0
             ],
             "percentile": {
                 "value": 100
             },
             "percentileAfterReward": {
-                "value": 100
+                "value": 0
             },
             "nextOnFailure": true
         },
@@ -34,7 +35,8 @@
             "levelName": "New World",
             "enabled": true,
             "adTypes": [
-                1
+                1,
+                0
             ],
             "percentile": {
                 "value": 100
@@ -63,8 +65,8 @@
             "levelName": "Be Stronger",
             "enabled": true,
             "adTypes": [
-                0,
-                1
+                1,
+                0
             ],
             "percentile": {
                 "value": 100
@@ -93,7 +95,7 @@
             "levelName": "Freliora",
             "enabled": true,
             "adTypes": [
-                2,
+                1,
                 0
             ],
             "percentile": {
@@ -108,7 +110,8 @@
             "levelName": "Underground",
             "enabled": true,
             "adTypes": [
-                2
+                1,
+                0
             ],
             "percentile": {
                 "value": 100
@@ -122,8 +125,8 @@
             "levelName": "Monsters",
             "enabled": true,
             "adTypes": [
-                0,
-                2
+                1,
+                0
             ],
             "percentile": {
                 "value": 100

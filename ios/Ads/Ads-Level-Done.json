@@ -1,0 +1,632 @@
+{
+    "version": "0",
+    "ads": [
+        {
+            "levelName": "Born",
+            "enabled": false,
+            "adTypes": [
+                0,
+                1
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Begin",
+            "enabled": true,
+            "adTypes": [
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 100
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "New World",
+            "enabled": true,
+            "adTypes": [
+                1
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "My Way",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Be Stronger",
+            "enabled": true,
+            "adTypes": [
+                0,
+                1
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Survive",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Freliora",
+            "enabled": true,
+            "adTypes": [
+                2,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 100
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Underground",
+            "enabled": true,
+            "adTypes": [
+                2
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Monsters",
+            "enabled": true,
+            "adTypes": [
+                0,
+                2
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Enora",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Lorsaya",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 100
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Friend",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Dark",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Church",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Pirelius",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 100
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Shadal",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Sora",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Minefield",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Rotanis",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 100
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Bahamut",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Help",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Running",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Surprise",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Argda",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 100
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Fall",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Trap",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Rain",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Fanan",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 100
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Sump",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Tomb",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Caverna",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Gunan",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 100
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Garbage",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Furra",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Question",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Gotcha",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 100
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Sky",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Journey",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Chicken",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Serrougth",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 100
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Radonis",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        },
+        {
+            "levelName": "Heart",
+            "enabled": true,
+            "adTypes": [
+                1,
+                0
+            ],
+            "percentile": {
+                "value": 100
+            },
+            "percentileAfterReward": {
+                "value": 0
+            },
+            "nextOnFailure": true
+        }
+    ]
+}

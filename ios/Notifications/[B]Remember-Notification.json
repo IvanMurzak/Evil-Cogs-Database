@@ -1,0 +1,103 @@
+{
+    "version": "1",
+    "notificationConfigs": [
+        {
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "repeatDelay": "01:00",
+            "localTime": "14:00:00",
+            "dayOfWeek": 0,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
+                }
+            ]
+        },
+		{
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "repeatDelay": "01:00",
+            "localTime": "14:00:00",
+            "dayOfWeek": 1,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
+                }
+            ]
+        },
+		{
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "repeatDelay": "01:00",
+            "localTime": "14:00:00",
+            "dayOfWeek": 2,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
+                }
+            ]
+        },
+		{
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "repeatDelay": "01:00",
+            "localTime": "14:00:00",
+            "dayOfWeek": 3,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
+                }
+            ]
+        },
+		{
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "repeatDelay": "01:00",
+            "localTime": "14:00:00",
+            "dayOfWeek": 4,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
+                }
+            ]
+        },
+		{
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "repeatDelay": "01:00",
+            "localTime": "14:00:00",
+            "dayOfWeek": 5,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
+                }
+            ]
+        },
+		{
+            "showInForeground": true,
+            "repeating": true,
+            "iosRepeatCount": 3,
+            "repeatDelay": "01:00",
+            "localTime": "14:00:00",
+            "dayOfWeek": 6,
+            "messageVariants": [
+                {
+                    "titleKey": "UI_LOCAL_NOTIFICATION_TITLE_3",
+                    "messageKey": "UI_LOCAL_NOTIFICATION_MESSAGE_3"
+                }
+            ]
+        }
+    ]
+}

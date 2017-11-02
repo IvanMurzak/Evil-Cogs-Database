@@ -3,10 +3,9 @@
     "ads": [
         {
             "levelName": "Born",
-            "enabled": false,
+            "enabled": true,
             "adTypes": [
-                0,
-                1
+                0
             ],
             "percentile": {
                 "value": 100
@@ -26,7 +25,7 @@
                 "value": 100
             },
             "percentileAfterReward": {
-                "value": 100
+                "value": 0
             },
             "nextOnFailure": true
         },
@@ -34,7 +33,7 @@
             "levelName": "New World",
             "enabled": true,
             "adTypes": [
-                1
+                0
             ],
             "percentile": {
                 "value": 100
@@ -48,7 +47,6 @@
             "levelName": "My Way",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -63,8 +61,7 @@
             "levelName": "Be Stronger",
             "enabled": true,
             "adTypes": [
-                0,
-                1
+                0
             ],
             "percentile": {
                 "value": 100
@@ -78,7 +75,6 @@
             "levelName": "Survive",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -93,7 +89,6 @@
             "levelName": "Freliora",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -108,7 +103,7 @@
             "levelName": "Underground",
             "enabled": true,
             "adTypes": [
-                1
+                0
             ],
             "percentile": {
                 "value": 100
@@ -122,8 +117,7 @@
             "levelName": "Monsters",
             "enabled": true,
             "adTypes": [
-                0,
-                1
+                0
             ],
             "percentile": {
                 "value": 100
@@ -137,7 +131,6 @@
             "levelName": "Enora",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -152,7 +145,6 @@
             "levelName": "Lorsaya",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -167,7 +159,6 @@
             "levelName": "Friend",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -182,7 +173,6 @@
             "levelName": "Dark",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -197,7 +187,6 @@
             "levelName": "Church",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -212,7 +201,6 @@
             "levelName": "Pirelius",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -227,7 +215,6 @@
             "levelName": "Shadal",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -242,7 +229,6 @@
             "levelName": "Sora",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -257,7 +243,6 @@
             "levelName": "Minefield",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -272,7 +257,6 @@
             "levelName": "Rotanis",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -287,7 +271,6 @@
             "levelName": "Bahamut",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -302,7 +285,6 @@
             "levelName": "Help",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -317,7 +299,6 @@
             "levelName": "Running",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -332,7 +313,6 @@
             "levelName": "Surprise",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -347,7 +327,6 @@
             "levelName": "Argda",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -362,7 +341,6 @@
             "levelName": "Fall",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -377,7 +355,6 @@
             "levelName": "Trap",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -392,7 +369,6 @@
             "levelName": "Rain",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -407,7 +383,6 @@
             "levelName": "Fanan",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -422,7 +397,6 @@
             "levelName": "Sump",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -437,7 +411,6 @@
             "levelName": "Tomb",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -452,7 +425,6 @@
             "levelName": "Caverna",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -467,7 +439,6 @@
             "levelName": "Gunan",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -482,7 +453,6 @@
             "levelName": "Garbage",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -497,7 +467,6 @@
             "levelName": "Furra",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -512,7 +481,6 @@
             "levelName": "Question",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -527,7 +495,6 @@
             "levelName": "Gotcha",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -542,7 +509,6 @@
             "levelName": "Sky",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -557,7 +523,6 @@
             "levelName": "Journey",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -572,7 +537,6 @@
             "levelName": "Chicken",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -587,7 +551,6 @@
             "levelName": "Serrougth",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -602,7 +565,6 @@
             "levelName": "Radonis",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
@@ -617,7 +579,6 @@
             "levelName": "Heart",
             "enabled": true,
             "adTypes": [
-                1,
                 0
             ],
             "percentile": {
